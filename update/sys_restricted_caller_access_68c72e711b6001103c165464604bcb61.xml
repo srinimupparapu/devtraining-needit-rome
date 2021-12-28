@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <operation>write</operation>
+        <rca_type>real_rca</rca_type>
+        <source>bb1996e80a0a0b0f00499e4a748ddfb7</source>
+        <source_scope display_value="Global">global</source_scope>
+        <source_table>sys_script_include</source_table>
+        <source_type>2</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-21 14:56:47</sys_created_on>
+        <sys_id>68c72e711b6001103c165464604bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_68c72e711b6001103c165464604bcb61</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-21 14:56:47</sys_updated_on>
+        <target name="x_58872_needit_my_custom_table" target_table="sys_db_object">7a442ab91b2001103c165464604bcb9b</target>
+        <target_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+</record_update>
